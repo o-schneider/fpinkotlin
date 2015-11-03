@@ -1,0 +1,1 @@
+Exercises from the book FP In Scala written in Kotlin
